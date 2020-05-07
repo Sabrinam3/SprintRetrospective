@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  background-color: #cce9f6;
+  height: 100vh;
+}
+
+.sidebar {
+  height: 100vh;
+}
+
+/* .wrap {
+  margin: 0 auto;
+  width: 80%;
+  background-color: #fff;
+}
+
+.projectTable {
+  margin: 0 auto;
+  width: 95%;
+} */
+
+.pageHead {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.deleteIcon {
+  color: red;
+  float: left;
+  margin-top: 10px;
+}
+
+.projectCard {
+  min-width: 98%;
+  min-height: 12rem;
+  margin: 10px;
+  border: 2px solid #005ba3;
+}
+
+.modalHeader {
+  background-color: #fff !important;
+  border-bottom: 1.5px solid #005ba3;
+}
+
+.modalFooter {
+  background-color: #fff;
+  border-top: 1.5px solid #005ba3;
+}
+
+.projectsGridView {
+  margin: 10px;
+  padding-left: 0;
+}

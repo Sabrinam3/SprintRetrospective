@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+  background-color: #cce9f6;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 80%;
+  background-color: #fff;
+  height: 100vh;
+}
+.projectTable {
+  margin: 0 auto;
+  width: 95%;
+}
+
+.pageHead {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.deleteIcon {
+  color: red;
+  float: left;
+  margin-top: 10px;
+}
+
+.card {
+  min-width: 98%;
+  min-height: 12rem;
+  margin: 10px;
+  border: 2px solid #005ba3;
+}
+
+.scrollView {
+  border: 1px solid #ccc;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.modalHeader {
+  background-color: #fff !important;
+  border-bottom: 1.5px solid #005ba3;
+}
+
+.modalFooter {
+  background-color: #fff;
+  border-top: 1.5px solid #005ba3;
+  flex: 1;
+}
+
+.projectsGridView {
+  margin: 10px;
+}
+
+.taskHeader {
+  color: #005ba3;
+  text-align: left;
+  margin: 5%;
+}

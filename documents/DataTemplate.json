@@ -1,0 +1,47 @@
+{
+    "projects": [
+        {
+            "teamName": "",
+            "teamNumber": "",
+            "productName": "",
+            "startDate": "",
+            "initialVelocity": "",
+            "hoursPerStory": 4.5,
+            "teamMembers": [
+                { "id": "randomID", "displayName": "Frank" }
+            ],
+            "sprints": [
+                {
+                    "sprintTitle": "1",
+                    "startDate": "",
+                    "endDate": "",
+                    "velocity": "",
+                    "userStories": [
+                        {
+                            "initialEstimate": 0,
+                            "hoursComplete": 0,
+                            "hoursLeft": 0,
+                            "percentageComplete": 0,
+                            "assignee": {"id": "teamMember_ID", "name": "teamMember_Name"},
+                            "title": "",
+                            "status": "",
+                            "sprints": ["sprint_ID"]
+                        }
+                    ]
+                }
+            ],
+            "backlog": [
+                {
+                "initialEstimate": 0,
+                "hoursCompleted": 0,
+                "hoursLeft": 0,
+                "assignee": "",
+                "title": "",
+                "status": "",
+                "sprints": [""]
+                }
+            ]
+        }
+    ]
+}
+
